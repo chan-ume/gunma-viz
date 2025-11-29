@@ -2,6 +2,7 @@
 
 - Gunma.web のLT用に作成したアプリ
 - 群馬県の移動人口調査データを使って、県内・県外への転入/転出を可視化
+  - [群馬県統計情報提供システム - 移動人口調査](https://toukei.pref.gunma.jp/idj/)
 - GitHub Pages によるデプロイURL: https://chan-ume.github.io/gunma-viz/
 
 ---
